@@ -14,9 +14,13 @@ Answer Extraction: Extract and refine answers using Roberta and TextBlob.
 
 # Technologies Used
 SentenceTransformer: For embedding generation
+
 Faiss: For similarity search
+
 Roberta: For question answering
+
 TextBlob: For answer correction
+
 Streamlit: For the user interface
 
 # Installation
