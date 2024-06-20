@@ -1,4 +1,4 @@
-##PDF Question Answering System
+## PDF Question Answering System
 
 Overview
 This project demonstrates a PDF Question Answering System using machine learning and natural language processing techniques. The system processes PDF documents into searchable chunks and answers user queries based on the content of the PDFs. Key technologies used include SentenceTransformer, Faiss, Roberta, and TextBlob.
