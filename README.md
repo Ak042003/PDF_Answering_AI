@@ -7,9 +7,13 @@ This project demonstrates a PDF Question Answering System using machine learning
 # Features
 
 PDF Loading and Splitting: Load and split PDFs into manageable text chunks.
+
 Embedding Generation: Generate embeddings for text chunks using SentenceTransformer.
+
 Faiss Indexing: Index embeddings for efficient similarity search.
+
 Query Processing: Process user queries to find relevant text chunks.
+
 Answer Extraction: Extract and refine answers using Roberta and TextBlob.
 
 # Technologies Used
