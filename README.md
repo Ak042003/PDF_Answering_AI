@@ -24,3 +24,5 @@ Install the required libraries using pip:
 
 pip install langchain sentence-transformers faiss transformers torch textblob streamlit
 
+# Link to the demo
+https://pdfansweringai-9aftigtxvikivb5kagbmig.streamlit.app/
