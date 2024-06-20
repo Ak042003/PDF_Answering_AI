@@ -4,7 +4,7 @@ langchain==0.2.5
 langchain-community
 matplotlib==3.7.1
 Pillow==10.3.0
-PyPDF2==3.0.1
+pypdf
 sentence_transformers==2.2.2
 streamlit==1.35.0
 tensorflow==2.12.0
