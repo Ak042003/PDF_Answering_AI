@@ -22,6 +22,5 @@ Streamlit: For the user interface
 # Installation
 Install the required libraries using pip:
 
-bash
-Copy code
 pip install langchain sentence-transformers faiss transformers torch textblob streamlit
+
